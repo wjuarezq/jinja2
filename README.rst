@@ -1,7 +1,7 @@
 Jinja2
 ~~~~~~
 
-Jinja2 is a template engine written in pure Python.  It provides a
+Jinja2 Aloha is a template engine written in pure Python.  It provides a
 `Django`_ inspired non-XML syntax but supports inline expressions and
 an optional `sandboxed`_ environment.
 
